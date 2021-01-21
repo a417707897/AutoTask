@@ -1,7 +1,7 @@
 <template>
-  <div id="app">
+  <div id="app" style="height: 100%;">
     <div class="navigation">
-      <el-container style="height: 500px; border: 1px solid #eee">
+      <el-container style="height: 100%; border: 1px solid #eee">
         <el-aside width="200px" style="background-color: rgb(238, 241, 246)">
           <!-- openeds默认打开哪个导航 -->
           <el-menu
